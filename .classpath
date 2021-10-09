@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-net-3.8.0/commons-net-3.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-net-3.8.0/commons-net-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-net-3.8.0/commons-net-examples-3.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-validator-1.7/commons-validator-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-validator-1.7/commons-validator-1.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-validator-1.7/commons-validator-1.7-sources.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-validator-1.7/commons-validator-1.7-tests.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-validator-1.7/commons-validator-1.7-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
