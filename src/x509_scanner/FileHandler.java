@@ -130,5 +130,5 @@ class FileHandler {
 	 */
 	private String setPath(String filename) {
 		   return System.getProperty("user.dir")+"\\src\\x509_scanner\\input\\"+filename;
-		}
+	}
 }
