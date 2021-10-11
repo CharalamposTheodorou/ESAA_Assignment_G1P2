@@ -11,8 +11,6 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-import com.sun.javafx.scene.paint.GradientUtils.Parser;
-
 public class Analyzer {
 
 	public static int num_connections=0;
