@@ -18,9 +18,6 @@ import javax.net.ssl.*;
 import static x509_scanner.ConnectionHandler.rootstore_list;
 import static x509_scanner.ConnectionHandler.trustedCertificates;
 
-import org.certificatetransparency.ctlog.proto.Ct;
-
-import sun.security.provider.certpath.SunCertPathBuilderException;
 
 public class TLSConnection implements Runnable {
 	

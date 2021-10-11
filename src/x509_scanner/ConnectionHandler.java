@@ -83,6 +83,7 @@ public class ConnectionHandler {
 		public void onSendLogs(int logs_counter, boolean validated, String valid_CA, String error, String description,int version) {
 			
 		
+			
 			//adding new entry to log.
 			TLSLog log = new TLSLog(this.id,this.domain,this.ip,logs_counter,validated,valid_CA,error,description,version);
 			loggers.add(log);
