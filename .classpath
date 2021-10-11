@@ -10,9 +10,9 @@
 	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-validator-1.7/commons-validator-1.7-sources.jar"/>
 	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-validator-1.7/commons-validator-1.7-tests.jar"/>
 	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/commons-validator-1.7/commons-validator-1.7-test-sources.jar"/>
-	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/nimbus-jose-jwt-9.4.2-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/nimbus-jose-jwt-9.15.2.jar"/>
-	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/bcprov-jdk15on-1.69.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/nimbus-jose-jwt-9.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/nimbus-jose-jwt-9.15.2.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/bcprov-jdk15on-1.69.jar"/>
 	<classpathentry kind="lib" path="D:/Downloads/jar_files/bcpkix-jdk15on-1.56.jar"/>
 	<classpathentry kind="lib" path="D:/Downloads/jar_files/bcprov-jdk15on-1.56.jar"/>
 	<classpathentry kind="lib" path="D:/Downloads/jar_files/commons-codec-1.8.jar"/>
@@ -25,6 +25,6 @@
 	<classpathentry kind="lib" path="D:/Downloads/jar_files/json-simple-1.1.1.jar"/>
 	<classpathentry kind="lib" path="D:/Downloads/jar_files/junit-4.10.jar"/>
 	<classpathentry kind="lib" path="D:/Downloads/jar_files/protobuf-java-3.2.0.jar"/>
-	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/jar_files (1)/json-20210307.jar"/>
+	<classpathentry kind="lib" path="D:/UTwente/Empirical Security Analysis Engineering/assignemnts/Assignment Group1_Part2/Eclipse Java Project/lib/json-20210307.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
